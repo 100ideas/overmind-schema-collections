@@ -1,7 +1,7 @@
 {
   "name": "overmind-schema-collections",
   "version": "0.1.0",
-  "description": "overmind-react: create & edit collections based on combinations of schemas",
+  "description": "create & edit collections based on combinations of schemas. built with overmind & react",
   "keywords": [
     "overmind",
     "schema",

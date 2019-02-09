@@ -1,4 +1,4 @@
-# overmind.js collection editor
+# overmind-schema-collections editor app
 
 - define schemas w/ validation rules,
 - create collections based on combinations of schemas
