@@ -1,6 +1,7 @@
 # overmind.js collection editor
+https://codesandbox.io/s/github/100ideas/overmind-schema-collections/tree/codesandbox/
 
-- define schemas w/ validation rules,
+- define schemas w/ validation rules
 - create collections based on combinations of schemas
 - view / edit items of collections
 
@@ -20,4 +21,4 @@ copy `.env.template` to `.env`; change as desired
 find . -type f -perm -o+rx -print0 | xargs -0 chmod 0644
 ```
 
-forked from [codesandbox demo](https://codesandbox.io/s/github/100ideas/overmind-routing-demo/tree/codesandbox_v1)
+codebase derived from [github/100ideas/overmind-routing-demo/](https://github.com/100ideas/overmind-routing-demo/)
